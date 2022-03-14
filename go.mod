@@ -1,3 +1,3 @@
-module github.com/jeremybusk/go-sandbox/v2
+module github.com/jeremybusk/go-sandbox
 
 go 1.17
